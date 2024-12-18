@@ -24,7 +24,7 @@ The Service is provided "as is", without warranty of any kind, express or implie
 
 ## 6. Privacy Policy
 
-Your use of the Service is also governed by our Privacy Policy, which can be found at [Privacy Policy URL].
+Your use of the Service is also governed by our Privacy Policy, which can be found at https://github.com/nalyons1/KONTROLR/blob/main/privacypolicy.md.
 
 ## 7. Governing Law
 
